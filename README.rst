@@ -73,3 +73,4 @@ SkyPy based on its use in the README file for the
 .. |Documentation Status| image:: https://readthedocs.org/projects/githubapps/badge/?version=latest
     :target: https://skypy.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
+
